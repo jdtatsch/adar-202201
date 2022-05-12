@@ -15,12 +15,9 @@ names_github <- function(repos){
   
   
 links <- c(
-  "https://github.com/GuilhermeTorma/resolucao-lista4-adar/archive/refs/heads/main.zip",
-  "https://github.com/Gabriel-WH/resolucao-lista4-adar/archive/refs/heads/main.zip",
-  # ppgmet
-  "https://github.com/rodrigo-s-pereira/resolucao-lista4-adar/archive/refs/heads/main.zip"
+  #concatenar aqui caminhos para os arquivos zip dos repos
 )
-#
+
 
 down_lists <- function(links) {
   
